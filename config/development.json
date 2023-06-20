@@ -1,0 +1,54 @@
+{
+  "rateLimiter": {
+    "brand": {
+      "windowMin": 10,
+      "maxLimit": 118
+    },
+    "feed": {
+      "windowMin": 10,
+      "maxLimit": 118
+    },
+
+    "product_route": {
+      "windowMin": 10,
+      "maxLimit": 118
+    },
+
+    "route_product": {
+      "windowMin": 10,
+      "maxLimit": 118
+    },
+    "campaign": {
+      "windowMin": 10,
+      "maxLimit": 118
+    },
+    "cart": {
+      "windowMin": 10,
+      "maxLimit": 118
+    },
+    "category": {
+      "windowMin": 10,
+      "maxLimit": 118
+    },
+    "moderation": {
+      "windowMin": 10,
+      "maxLimit": 118
+    },
+    "social_media": {
+      "windowMin": 10,
+      "maxLimit": 118
+    },
+    "task": {
+      "windowMin": 10,
+      "maxLimit": 118
+    },
+    "search": {
+      "windowMin": 10,
+      "maxLimit": 118
+    },
+    "steream": {
+      "windowMin": 10,
+      "maxLimit": 118
+    }
+  }
+}
