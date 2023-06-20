@@ -1,0 +1,1 @@
+### check bash_profile file to set env variable in bulk
